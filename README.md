@@ -1,4 +1,6 @@
 ### Hi there 👋
+I know how to exit vim.
+### Byeeee 👋
 
 <!--
 **MaryWylde/MaryWylde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
