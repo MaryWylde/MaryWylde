@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaryWylde&count_private=true&show_icons=true&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MaryWylde&theme=dark)](https://git.io/streak-stats)
 
 ### Byeeee 👋
 
