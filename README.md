@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MaryWylde&theme=github-dark-blue)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=MaryWylde&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Byeeee 👋
 
