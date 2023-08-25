@@ -2,7 +2,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MaryWylde&theme=github-dark-blue)](https://git.io/streak-stats)
 
-![Visitor Count](https://profile-counter.glitch.me/{MaryWylde}/count.svg)
 ### Byeeee 👋
 
 <!--
