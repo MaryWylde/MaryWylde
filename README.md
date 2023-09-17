@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MaryWylde&theme=github-dark-blue)](https://git.io/streak-stats)
 
