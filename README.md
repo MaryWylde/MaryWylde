@@ -1,7 +1,4 @@
 ### Hello there 👋
-
- <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=MaryWylde&theme=github-dark-blue)](https://git.io/streak-stats)
- -->
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=MaryWylde&theme=transparent&border_radius=15&card_width=500)](https://git.io/streak-stats)
 ### Byeeee 👋
