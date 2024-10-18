@@ -1,4 +1,5 @@
 ### Hello there 🚀 
+What's the point of writing a long text here? No one is going to read it anyway.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MaryWylde&theme=transparent&border_radius=15&card_width=500)](https://git.io/streak-stats)
 ### Byeeee 👋
